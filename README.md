@@ -1,2 +1,8 @@
 # BITP1113-Week02
+
 BITP 1113 Programming Technique - Week 02 lab
+
+
+
+AINA NAJIHAH BINTI ROSLI, B032610222, BITC S2G1
+
